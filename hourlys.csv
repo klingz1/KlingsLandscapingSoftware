@@ -1,0 +1,11 @@
+Date, Price, Description, Customer Name, isPaid, Amount Paid, Hours, Rate
+8-6-13, 25, Weeding Mulch Beds, Brian, true, 25, 2:45-4:30, 15,
+6-8-13 + 6-8-13, 45, Rocks and Pavers, Joao and Sharon Martins, true, 45, 10:50-12:20 + 3:00-4:30, 15,
+5-21-13, 25, Move Pavers, Richie, true, 25, 1:30-4:00, 10,
+5-21-13, 15, Leaves, Patrick and Michelle Alberts, true, 15, 12:45-1:45, 15,
+5-12-13 + 5-13-13 + 5-20-13 + 6-1-13 + 6-2-13, 135, Path Dig, Joao and Sharon Martins, true, 135, 1:50-3:50 + 12:00-2:30 + 2:15-3:45 + 4:10-5:30 + 1:00-2:30, 15,
+6-24-12, 60, Stones, Richie, true, 60, unknown, 10,
+4-15-12, 60, Dog Sitting, unknown - 30 Cherokee, true, 60, unknown, 15,
+4-6-12, 25, Sand Removal, Frank, true, 25, unknown, 25,
+4-4-12, 15, Leaves, Fred, true, 15, unknown, 15,
+4-2-12 + 4-6-12, 35, Leaves, Patrick and Michelle Alberts, true, 35, unknown, 15
